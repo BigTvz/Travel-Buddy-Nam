@@ -1,0 +1,7 @@
+{
+  "name": "Travel Buddy Nam",
+  "description": "Your AI-powered concierge for exploring Namibia. Plan itineraries, discover local gems, and connect with service providers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
